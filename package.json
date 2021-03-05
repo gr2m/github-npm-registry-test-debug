@@ -9,15 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gr2m/github-npm-registry-test-debug.git"
-  },
+  "repository": "github:gr2m/github-npm-registry-test-debug",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gr2m/github-npm-registry-test-debug/issues"
-  },
-  "homepage": "https://github.com/gr2m/github-npm-registry-test-debug#readme"
+  "license": "ISC"
 }
